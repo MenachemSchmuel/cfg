@@ -1,0 +1,1 @@
+ 4812 frames 36.088 seconds 133.34 fps ( 7.50 ms/f) 25.030 fps variability
